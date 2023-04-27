@@ -1,1 +1,1 @@
-# Deep-Learning---Score-Based-Models
+# Deep-Learning---Score-Based Models
